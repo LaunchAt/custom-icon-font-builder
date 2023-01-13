@@ -1,0 +1,10 @@
+{
+  "name": "custom-icon-font-builder",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "svgtofont"
+  },
+  "dependencies": {
+    "svgtofont": "^3.22.0"
+  }
+}

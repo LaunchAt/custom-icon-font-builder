@@ -1,0 +1,10 @@
+{
+  "dist": "dist",
+  "src": "svg",
+  "fontName": "",
+  "classNamePrefix": "",
+  "css": {
+    "fontSize": "24px",
+    "fileName": ""
+  }
+}
